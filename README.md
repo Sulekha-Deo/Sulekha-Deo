@@ -33,13 +33,13 @@
   <a href="https://github.com/Sulekha-Deo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff&label=" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/ic7400a" target="_blank" rel="noopener noreferrer" style="margin-left:20px; margin-right:20px;">
+  <!--<a href="https://gitlab.com/Sulekha-Deo" target="_blank" rel="noopener noreferrer" style="margin-left:20px; margin-right:20px;">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=ffffff&label=" alt="GitLab" />
-  </a>
-  <a href="mailto:atrigveda@gmail.com" target="_blank" rel="noopener noreferrer">
+  </a> -->
+  <a href="mailto:sulekha@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=ffffff&label=" alt="Email" />
   </a>
-  <a href="https://t.me/ic7400a" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
+  <a href="https://t.me/Suleka-Deo" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=ffffff&label=" alt="Telegram" />
   </a>
 </p>
