@@ -39,7 +39,7 @@
   <a href="mailto:sulekha@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=ffffff&label=" alt="Email" />
   </a>
-  <a href="https://t.me/Suleka-Deo" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
+  <a href="https://t.me/SulekaDeo" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=ffffff&label=" alt="Telegram" />
   </a>
 </p>
