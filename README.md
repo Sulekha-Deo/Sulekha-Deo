@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:000000&text=Hello%20there!%20I'm%20Sulekha%20Deo&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer&section=header&animation=fadeIn&descAlignY=50" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sulekha-Deo&style=flat&color=000000&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://github-profile-views-counter-js.vercel.app/api/views?pageId=sulekha-deo&style=flat&color=2C3E50&label=Profile%20Views" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight-green.vercel.app/?user=Sulekha-Deo&theme=dark&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" width="350" height="160" style="object-fit: contain;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulekha-Deo&theme=react-dark&area=true&hide_border=true&background=000000&color=ffffff" width="350" height="160" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
+  <img src="https://github-readme-activity-graph-self.vercel.app/graph?username=Sulekha-Deo&theme=react-dark&area=true&hide_border=true&background=000000&color=ffffff" width="350" height="160" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
 </div>
 
 ---
