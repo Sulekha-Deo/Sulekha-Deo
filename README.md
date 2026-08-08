@@ -21,7 +21,7 @@
 ### More Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight-green.vercel.app/?user=Sulekha-Deo&theme=dark&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulekha-Deo&theme=dark&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" width="350" height="160" style="object-fit: contain;" />
   <img src="https://github-readme-activity-graph-self.vercel.app/graph?username=Sulekha-Deo&theme=react-dark&area=true&hide_border=true&background=000000&color=ffffff" width="350" height="160" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
 </div>
 
@@ -38,9 +38,6 @@
   </a> -->
   <a href="mailto:sulekha@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=ffffff&label=" alt="Email" />
-  </a>
-  <a href="https://t.me/SulekhaDeo" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=ffffff&label=" alt="Telegram" />
   </a>
 </p>
 
